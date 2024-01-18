@@ -1,0 +1,34 @@
+body{
+    background-color: black;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+}
+a{
+    color: white;
+  padding: 14px 16px;
+    text-decoration: none;
+  margin-top: auto;
+ overflow: hidden;
+  list-style-type:none;
+  float:none;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+nav{
+   
+    background-color: orangered;
+   height: 20px;
+    margin:0;
+    padding: 15px;
+    align-items: center;
+
+}
+h1{
+    color: white;
+    text-align: center;
+}
+p{
+    color: white;
+    text-align: center;
+    font-size: large;
+}
